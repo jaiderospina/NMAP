@@ -7,7 +7,6 @@ NMAP
     <br />
 </p>
 
-Elaborado por: Eddie Alfaro Villegas ealfarov02@est.una.ac.cr <br>
 
 # Identificación de Infraestructuras Tecnológicas con NMAP
 
